@@ -73,7 +73,10 @@ KMeans consistently outperformed the other methods in this setup, demonstrating 
 
 ## 📝 Requirements
 
-Make sure to have the following Python libraries installed:
+- Python 3.x  
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- scikit-learn
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
