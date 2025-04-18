@@ -55,7 +55,7 @@ These metrics provide insights into cluster cohesion, separation, and density.
 From the comparative analysis:
 
 - **Best Algorithm:** KMeans Clustering  
-- **Best Score (Silhouette):** **5.67**  
+- **Best Score (Silhouette):** **0.57**  
 - **Best Preprocessing:** Standardization + Normalization + PCA *(T+N+PCA)*  
 
 KMeans consistently outperformed the other methods in this setup, demonstrating optimal cluster formation and separation.
